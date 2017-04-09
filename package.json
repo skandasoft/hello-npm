@@ -1,0 +1,12 @@
+{
+  "name": "@skandasoft/hello-npm",
+  "version": "1.0.0",
+  "description": "\"# hello-npm\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "skandasoft <skandasoftinc@gmail.com> (http://skandasoft.com/)",
+  "license": "MIT"
+}
